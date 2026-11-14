@@ -1,0 +1,20 @@
+{
+  "name": "web-metric-evaluator",
+  "version": "1.0.0",
+  "description": "Automated web performance latency, availability index, and endpoint metric evaluator.",
+  "type": "module",
+  "main": "src/evaluator.js",
+  "scripts": {
+    "start": "node src/evaluator.js",
+    "test": "node src/evaluator.js"
+  },
+  "keywords": [
+    "metrics",
+    "telemetry",
+    "latency",
+    "evaluator",
+    "performance"
+  ],
+  "author": "dadasadac6",
+  "license": "MIT"
+}
